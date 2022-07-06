@@ -138,3 +138,13 @@ body {
     border-radius: 10px;
     background-color: #FFF4D6;
 }
+
+.contribute {
+    display: flex;
+    margin: 20px 150px;
+    padding-bottom: 90px;
+}
+
+.half-width {
+    width: 50%;
+}
