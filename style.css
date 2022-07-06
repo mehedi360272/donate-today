@@ -172,3 +172,18 @@ body {
 #contr-content p {
     padding-bottom: 30px;
 }
+
+footer h1 {
+    font-size: 30px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
+}
+
+footer {
+    color: white;
+    background-color: #FF5959;
+    text-align: center;
+    padding: 20px 0px;
+
+}
