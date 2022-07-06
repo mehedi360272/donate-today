@@ -148,3 +148,27 @@ body {
 .half-width {
     width: 50%;
 }
+
+.contribute img {
+    width: 100%;
+    height: 480px;
+    border-radius: 7px;
+}
+
+.contribute img {
+    width: 100%;
+    height: 480px;
+    border-radius: 7px;
+}
+
+#contr-content {
+    padding: 10px 0px 10px 50px;
+}
+
+#contr-content h1 {
+    font-size: 40px;
+}
+
+#contr-content p {
+    padding-bottom: 30px;
+}
