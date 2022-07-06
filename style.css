@@ -63,3 +63,13 @@ body {
     background-color: #FFEEEE;
     border: 2px solid #FF5959;
 }
+
+.money h1 {
+    font-size: 30px;
+    margin: 30px 0px 40px 20px;
+    padding: 30px 20px 30px 20px;
+    color: #707070;
+    background-color: #FAFAFA;
+    border-radius: 7px;
+    /* box-shadow: 10px 10px 20px gray; */
+}
