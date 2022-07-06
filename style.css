@@ -51,3 +51,15 @@ body {
     text-align: center;
     padding-top: 100px;
 }
+
+.money-amount {
+    display: flex;
+    margin: 0px 300px;
+
+}
+
+#moneyAmount {
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
