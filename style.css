@@ -29,3 +29,20 @@ body {
 .banner h1 {
     font-size: 65px;
 }
+
+.banner-content {
+    padding: 100px 260px 10px 260px;
+}
+
+.banner p {
+    padding: 0px 100px 50px 100px;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-image: linear-gradient(#FF5959, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 18px 35px;
+    border-radius: 7px;
+}
