@@ -25,3 +25,7 @@ body {
     text-align: center;
     color: white;
 }
+
+.banner h1 {
+    font-size: 65px;
+}
