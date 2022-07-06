@@ -131,3 +131,10 @@ body {
     border-radius: 10px;
     background-color: #FFEEEE;
 }
+
+#card3 {
+    margin: 10px 10px;
+    padding: 50px 30px 30px 30px;
+    border-radius: 10px;
+    background-color: #FFF4D6;
+}
